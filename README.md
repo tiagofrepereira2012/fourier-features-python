@@ -14,5 +14,5 @@ jupyter-lab
 
 Output of the demo notebook:
 
-!()[output.png]
+![](output.png)
 
