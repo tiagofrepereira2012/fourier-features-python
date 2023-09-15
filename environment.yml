@@ -1,0 +1,13 @@
+name: fourier-features-pytorch
+channels:
+- conda-forge
+dependencies:
+- python==3.10
+- jupyterlab
+- matplotlib
+- tqdm
+- imageio
+- pip:
+  - torch
+  - torchvision
+  - ipdb  
