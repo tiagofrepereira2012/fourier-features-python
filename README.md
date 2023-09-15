@@ -12,3 +12,7 @@ conda activate fourier-features-pytorch
 jupyter-lab
 ```
 
+Output of the demo notebook:
+
+!()[output.png]
+
